@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full stack\\C#\\task\\crud(API)\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64283F7-4481-4624-AB7E-1FE44429409E}|API\\API.csproj|d:\\full stack\\c#\\task\\crud(api)\\api\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64283F7-4481-4624-AB7E-1FE44429409E}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64283F7-4481-4624-AB7E-1FE44429409E}|API\\API.csproj|d:\\full stack\\c#\\task\\crud(api)\\api\\api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64283F7-4481-4624-AB7E-1FE44429409E}|API\\API.csproj|solutionrelative:api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Full stack\\C#\\task\\crud(API)\\API\\API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Product.cs",
+              "ToolTip": "D:\\Full stack\\C#\\task\\crud(API)\\API\\API\\Models\\Product.cs",
+              "RelativeToolTip": "API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:31:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Full stack\\C#\\task\\crud(API)\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Full stack\\C#\\task\\crud(API)\\API\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwFEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:28:55.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
